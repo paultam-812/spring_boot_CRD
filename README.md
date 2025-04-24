@@ -93,6 +93,31 @@ Unit tests are included to ensure the correctness of the API endpoints and servi
 ./gradlew test
 ```
 
+## Test Result
+
+Below are the images showcasing the test results and application functionality:
+
+- **Original Book List**:
+  ![Original Book List](image/Original_book_list.png)
+
+- **Create Book**:
+  ![Create Book](image/Create_book.png)
+
+- **Book List Filtered by Author**:
+  ![Book List Filtered by Author](image/book_list_filter_author.png)
+
+- **Book List Filtered by Published Status**:
+  ![Book List Filtered by Published Status](image/book_list_filter_published.png)
+
+- **Book List Filtered by Author and Published Status**:
+  ![Book List Filtered by Author and Published Status](image/book_list_filter_author_and_published.png)
+
+- **Delete Book**:
+  ![Delete Book](image/Delete_book.png)
+
+- **After Deleting a Book**:
+  ![After Deleting a Book](image/After_delete_book_list.png)
+
 ## License
 
 This project is licensed under the MIT License.
